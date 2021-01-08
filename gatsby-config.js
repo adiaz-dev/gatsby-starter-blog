@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Augusto Starter Blog`,
+    title: `Amplify Branch detection Test`,
     author: {
       name: `Augusto Diaz`,
       summary: `who lives and works in San Francisco building useful things.`,
